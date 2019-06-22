@@ -17,6 +17,9 @@ namespace gitVS2017
             Shape r = new Rectangle();
             r.Draw();
 
+            Shape t = new Tesseract();
+            t.Draw();
+
             Console.ReadKey();
 
         }
